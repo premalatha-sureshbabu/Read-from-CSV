@@ -25,6 +25,10 @@ Print the output.
 
 ## PROGRAM:
 ```
+developed by:S.Prema latha
+
+reference number:22009393
+
 import pandas as pd
 
 df = pd.read_csv('data.csv')
@@ -40,9 +44,7 @@ print(len(df.axes[0]))
 print(len(df.axes[1]))
 
 ## OUTPUT:
-
-![Screenshot (49)](https://user-images.githubusercontent.com/120620842/214131314-bc580fea-df56-4254-a818-a001084f4631.png)
-
+![Screenshot (49)](https://user-images.githubusercontent.com/120620842/214131567-63aee967-06d1-4379-9672-8a9dc441b7b6.png)
 
 
 ## RESULT:
