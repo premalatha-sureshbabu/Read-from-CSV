@@ -45,7 +45,8 @@ print(len(df.axes[1]))
 
 ## OUTPUT:
 
-![image](https://user-images.githubusercontent.com/120620842/214351436-442cf8be-6839-4f55-93ce-33031ae68269.png)
+
+![Screenshot (98)](https://user-images.githubusercontent.com/120620842/214352054-f2dc7d72-4833-4b55-8d04-e1b4684df060.png)
 
 
 
