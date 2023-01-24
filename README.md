@@ -44,6 +44,7 @@ print(len(df.axes[0]))
 print(len(df.axes[1]))
 
 ## OUTPUT:
+
 ![SPL](https://user-images.githubusercontent.com/120620842/214131927-48cca2c8-5058-48de-96e8-54e69eaf8fca.png)
 
 
