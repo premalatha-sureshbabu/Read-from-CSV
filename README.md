@@ -43,10 +43,10 @@ print(len(df.axes[0]))
 
 print(len(df.axes[1]))
 
-###OUTPUT:
+## OUTPUT:
 ```
 ![Screenshot (98)](https://user-images.githubusercontent.com/120620842/214352388-b0e7fde1-15c6-4955-ab09-ed2ca8e2411a.png)
 ```
 
-###RESULT:
+## RESULT:
 A python program for reading content from a CSV file is written.
