@@ -29,25 +29,16 @@ developed by:S.Prema latha
 
 reference number:22009393
 
-import pandas as pd
-
-df = pd.read_csv('data.csv')
-
-print(df.head(10))
-
+df = pd.read_csv('nba.csv')
+print(df.head())
 print(df.tail())
-
-print(df.loc[[78,79,80,81],:])
-
-print(len(df.axes[0]))
-
-print(len(df.axes[1]))
-
+print("Column",len(df.axes[0]))
+print("Rows",len(df.axes[1]))
+```
 
 ## OUTPUT:
-```
-![Screenshot (98)](https://user-images.githubusercontent.com/120620842/214352388-b0e7fde1-15c6-4955-ab09-ed2ca8e2411a.png)
-```
+
+![Screenshot (72)](https://user-images.githubusercontent.com/120620842/214805616-1a030774-2d45-45b2-bf99-a9f51aec39af.png)
 
 ## RESULT:
 A python program for reading content from a CSV file is written.
