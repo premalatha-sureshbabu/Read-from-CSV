@@ -38,7 +38,8 @@ print("Rows",len(df.axes[1]))
 
 ## OUTPUT:
 
-![Screenshot (72)](https://user-images.githubusercontent.com/120620842/214805616-1a030774-2d45-45b2-bf99-a9f51aec39af.png)
+![Screenshot (113) (2)](https://user-images.githubusercontent.com/120620842/214818716-5b93cffa-454c-4732-bc88-68d31050f411.png)
+
 
 ## RESULT:
 A python program for reading content from a CSV file is written.
